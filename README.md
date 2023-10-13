@@ -25,6 +25,7 @@
 - <b>English knowlede level:</b> B1
 - <b>I have some other soft skill: </b> e.g. Sony Vegas Pro & Adobe Photoshop
 - <b>I have amazing pet projects
+- <b>Use Arch Linux as main OS</b>
 
 <h3>To do:</h3>
 
@@ -62,6 +63,7 @@
 - <b>Уровень знания английского языка:</b> B1
 - <b>Имею другие навыки: </b> для примера монтаж видео в Sony Vegas Pro или создания макета сайта в Photoshop
 - <b>Имею располагающие к себе пет проекты
+- <b>Использую Arch как основную ОС</b>
 
 <h3>Список задач:</h3>
 
