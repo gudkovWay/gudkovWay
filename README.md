@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **React, JS**
 
-- 👨‍💻 All of my projects are available at: Currently Unavailable 😞
+- 👨‍💻 All of my projects are available at: [github repository](https://github.com/gudkovWay/projects) 
 
 - 💬 Ask me about: **HTML, CSS, Python**
 
@@ -22,7 +22,7 @@
 <p align="left">Facts that are not about programming, but provide benefits:<br> 
   
 - <b>Birthday:</b> 04.01.2006
-- <b>English knowlede level:</b> B1
+- <b>English knowlede level:</b> A2 ( in the process of upgrading to B1 )
 - <b>I have some other soft skill: </b> e.g. Sony Vegas Pro & Adobe Photoshop
 - <b>I have amazing pet projects
 - <b>Use Arch Linux as main OS</b>
@@ -43,7 +43,7 @@
 
 - 🌱 Сейчас изучаю: **React, JS**
 
-- 👨‍💻 Мои проекты доступны здесь: Недоступно в настоящее время 😞
+- 👨‍💻 Мои проекты доступны здесь: [github repository](https://github.com/gudkovWay/projects) 
 
 - 💬 Могу отвечать на вопросы по: **HTML, CSS, Python**
 
@@ -57,11 +57,11 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>  </a> </p>
 
 <h3 align="left">Больше обо мне:</h3>
-<p align="left">Дополнительное преимуществa:<br> 
+<p align="left">Дополнительные преимуществa:<br> 
   
 - <b>День рождения:</b> 04.01.2006
-- <b>Уровень знания английского языка:</b> B1
-- <b>Имею другие навыки: </b> для примера монтаж видео в Sony Vegas Pro или создания макета сайта в Photoshop
+- <b>Уровень знания английского языка:</b> A2 ( в процессе повышения до B1)
+- <b>Имею другие навыки: </b> для примера монтаж видео в Sony Vegas Pro или создания макета сайта, оформления(аватарки, баннеры, топики, etc) в Photoshop
 - <b>Имею располагающие к себе пет проекты
 - <b>Использую Arch как основную ОС</b>
 
