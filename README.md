@@ -5,7 +5,7 @@
 ## 😶‍🌫️ [I create pet projects for effective education](https://github.com/gudkovWay/projects) 
 <br>
 
-### 👯 I study at a technical college, but knowledge get from the internet, for free.<br>🌱 I want go up from English A2 level to B1. Now I can read tech documentation without any promblems<br>🤓In the future wanna be a FullStack dev. At the moment the goal is to reach Middle+ level in frontend. 
+##### 👯 []() I study at a technical college, but knowledge get from the internet, for free.<br>🌱 I want go up from English A2 level to B1. Now I can read tech documentation without any promblems<br>🤓In the future wanna be a FullStack dev. At the moment the goal is to reach Middle+ level in frontend. 
 
 
 
