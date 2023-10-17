@@ -1,4 +1,4 @@
-# biograpyAndGoals
+# biographyAndGoals
 <h2 align="left">EU: 🇺🇸 </h2>
 <h3 align="center">Way to Creative FullStack Dev</h3>
 <img align="right" alt="hello friend" width="400" src="https://i.imgur.com/YwGjmVs.gif">
