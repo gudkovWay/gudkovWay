@@ -1,5 +1,8 @@
 # 💫 About Me:
+<img align="right" alt="hello friend" width="400" src="https://i.imgur.com/YwGjmVs.gif">
+
 ##### 😶‍🌫️ I create pet [projects](https://github.com/gudkovWay/projects) for effective education <br>👯 I study at a technical college, but knowledge get from the internet, for free.<br>🌱 I want go up from English A2 level to B1. Now I can read any tech documentation without any promblems<br>🤓In the future wanna be a FullStack dev. At the moment the goal is to reach Middle+ level in frontend. 
+
 
 
 ## 🌐 Socials:
