@@ -1,6 +1,9 @@
-# 💫 About Me:
-<img align="center" alt="hello friend" width="400" src="https://i.imgur.com/YwGjmVs.gif">
+<img align="center" alt="hello friend" width="440" src="https://i.imgur.com/YwGjmVs.gif">
 <br>
+
+# 💫 About Me:
+
+
 
 
 ## []() 😼 [I create pet projects for effective education](https://github.com/gudkovWay/projects) 
