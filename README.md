@@ -13,7 +13,7 @@
 <br>
 <b> I have one, three, and five year goals. </b>
 <br>
-<b> I study from 8 hours a day. The maximum is 11, because I have to make time for sports as well </b>
+<b> I study from 8 hours a day. The maximum is 14, because I have to make time for sports as well </b>
 <br>
 <b>That's what I'm love in this life:</b>
 
