@@ -2,7 +2,7 @@
 <div align="center">
 
  
- # lifestyle
+ # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=1500&color=D9E0EE&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&height=66&lines=bonsoir%2C+friend;it's+my+lifestyle)](https://git.io/typing-svg)
  
 [![NVChad](https://img.shields.io/badge/Neovim-302D41?style=for-the-badge&logo=Neovim&color=302D41&logoColor=D9E0EE)](https://github.com/NvChad/NvChad)
 ![ArchLinux =)](https://img.shields.io/badge/Arch_Linux-302D41?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&labelColor=302D41)
