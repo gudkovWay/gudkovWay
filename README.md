@@ -42,6 +42,16 @@
 
 <!-- =================================================== -->
 <div align="center">　<!-- repository::center -->
+<a href="https://github.com/gudkovWay/neovim-fullstack">
+    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=neovim-fullstack&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+</a>
+<h3 align="left">　</h3>
+<p align="left">　</p>
+<h1></h1>
+</div>　<!-- repository::center -->
+
+<!-- =================================================== -->
+<div align="center">　<!-- repository::center -->
 <a href="https://github.com/gudkovWay/ecommerce">
     <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=ecommerce&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
