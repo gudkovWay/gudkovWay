@@ -2,7 +2,7 @@
 <div align="center">
 
  
- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=D9E0EE&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=66&lines=btw%2C;i+use+arch)](https://git.io/typing-svg)
+ # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=D9E0EE&background=FFFFFF00&center=true&vCenter=true&multiline=false&random=false&repeat=false&width=435&height=66&lines=btw%2C+i+use+arch)](https://git.io/typing-svg)
  
 [![NVChad](https://img.shields.io/badge/Neovim-302D41?style=for-the-badge&logo=Neovim&color=302D41&logoColor=D9E0EE)](https://github.com/NvChad/NvChad)
 ![ArchLinux =)](https://img.shields.io/badge/Arch_Linux-302D41?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&labelColor=302D41)
