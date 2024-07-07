@@ -19,18 +19,9 @@
 
 
 ##
-<h2>🦄 Hot Repositories</h2>
+<h2>🧊 Repositories 🧊</h2>
 
 <br>
-
-<div align="center">　<!-- repository::center -->
-<a href="https://github.com/gudkovWay/projects">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=projects&layout=compact&theme=transparent&hide_border=true&count_private=true" />
-</a>
-<h3 align="left">　</h3>
-<p align="left">　</p>
-<h1></h1>
-</div>　<!-- repository::center -->
 
 <!-- =================================================== -->
 <div align="center">　<!-- repository::center -->
@@ -44,8 +35,8 @@
 
 <!-- =================================================== -->
 <div align="center">　<!-- repository::center -->
-<a href="https://github.com/gudkovWay/ecommerce">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=ecommerce&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+<a href="https://github.com/gudkovWay/react-prod">
+    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=react-prod&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
 <h3 align="left">　</h3>
 <p align="left">　</p>
