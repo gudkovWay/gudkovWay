@@ -6,7 +6,6 @@
  
 [![NVChad](https://img.shields.io/badge/Neovim-302D41?style=for-the-badge&logo=Neovim&color=302D41&logoColor=D9E0EE)](https://github.com/NvChad/NvChad)
 ![ArchLinux =)](https://img.shields.io/badge/Arch_Linux-302D41?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&labelColor=302D41)
-<a href="https://github.com/gudkovWay/projects"><img src="https://img.shields.io/badge/Projects-302D41?style=for-the-badge&logo=starship&logoColor=D9E0EE"/></a>
 <a href="https://t.me/IuriiGudkov"><img src="https://img.shields.io/badge/Telegram-302D41?style=for-the-badge&logo=telegram&logoColor=D9E0EE"/></a>
 <a href="https://music.youtube.com/playlist?list=PLZJVuReYjgNqPsnqtgXByEmhBchjDWV06&si=MjGXe6C6GgjT-ncA"><img src="https://img.shields.io/badge/Music-302D41?style=for-the-badge&logo=youtube-music&logoColor=D9E0EE"></a>
 </div>
