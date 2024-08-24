@@ -13,11 +13,9 @@
 
 |    <img src="https://i.imgur.com/2SP4cL8.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/MxCou1y.jpg" align="center" width="200px" height="200px"> |   <img src="https://i.imgur.com/tvZlJSE.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/qEUwtsJ.jpg" align="center" width="200px" height="200px">    |
 | :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | -------------------------------------------------------------------- |
-|  |  |     |  |
-|  <img src="https://i.imgur.com/nM1VVbE.jpg" align="center" width="200px" height="200px">  |  <img src="https://i.imgur.com/TiGZstl.jpg" align="center" width="200px" height="200px">   |  <img src="https://i.imgur.com/g9omvOt.png" width="200px" height="200px">   | <img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200px" height="200px">
 
 
-##
+
 <h2>🧊 Repositories 🧊</h2>
 
 <br>
@@ -44,8 +42,11 @@
 
 
 ## 🌴 Tech Stack:
- ![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=vercel&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/StyledComponents-20232A?style=for-the-badge&logo=StyledComponents&logoColor=CC6699) 
-<br>![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-DC143C?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-262224?style=for-the-badge&logo=prisma&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=vercel&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+
+
+<br> ![Golang](https://img.shields.io/badge/Go-039ACC?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-779933.svg?style=for-the-badge&logo=Node.JS&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-262224?style=for-the-badge&logo=prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
 <br>![LINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) [![Feature-Sliced Design][shields-fsd-pain]](https://feature-sliced.design/)
 
 [shields-fsd-pain]: https://img.shields.io/badge/Feature--Sliced-Design?style=for-the-badge&labelColor=262224&color=262224&logoWidth=10&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABHSURBVHgB7dKxCQAgDETR08ZNHNBBHNBNrBQFuyCCKQK5V6QMfBJAWVij5zLwKbW6d0VYx2TZyXnBKxvEZJnDx2bylf1kdRM6tiAZsruQ/QAAAABJRU5ErkJggg==  
