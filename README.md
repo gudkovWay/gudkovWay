@@ -27,7 +27,7 @@ Please, use deprecated instead of deprecated.
 
 ![ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 ![Fish](https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnu-bash&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![NVIM](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=codeium&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![NVIM](https://img.shields.io/badge/Editor-Neovim-informational?style=for-the-badge&logo=neovim&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 
 ![JS](https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 ![TS](https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
