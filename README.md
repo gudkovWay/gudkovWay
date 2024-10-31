@@ -1,24 +1,57 @@
-
 <div align="center">
 
- 
  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=D9E0EE&background=FFFFFF00&center=true&vCenter=true&multiline=false&random=false&repeat=false&width=435&height=66&lines=btw%2C+i+use+arch)](https://git.io/typing-svg)
- 
-[![NVChad](https://img.shields.io/badge/Neovim-302D41?style=for-the-badge&logo=Neovim&color=302D41&logoColor=D9E0EE)](https://github.com/NvChad/NvChad)
-![ArchLinux =)](https://img.shields.io/badge/Arch_Linux-302D41?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&labelColor=302D41)
-<a href="https://t.me/IuriiGudkov"><img src="https://img.shields.io/badge/Telegram-302D41?style=for-the-badge&logo=telegram&logoColor=D9E0EE"/></a>
-<a href="https://music.youtube.com/playlist?list=PLZJVuReYjgNqPsnqtgXByEmhBchjDWV06&si=MjGXe6C6GgjT-ncA"><img src="https://img.shields.io/badge/Music-302D41?style=for-the-badge&logo=youtube-music&logoColor=D9E0EE"></a>
+
 </div>
-<br>
 
-|    <img src="https://i.imgur.com/2SP4cL8.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/MxCou1y.jpg" align="center" width="200px" height="200px"> |   <img src="https://i.imgur.com/tvZlJSE.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/qEUwtsJ.jpg" align="center" width="200px" height="200px">    |
-| :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | -------------------------------------------------------------------- |
+```
+Deprecated is now deprecated. 
+Please, use deprecated instead of deprecated.
+```
 
 
 
-<h2>🧊 Repositories 🧊</h2>
 
-<br>
+
+## Долго выбираешь дистрибутив линукса? Лучше выбери таблетку
+
+**_Кто ты без синтаксиса ?_**
+
+- Если не пушить - прод не будет падать
+- Добрые гномы гоняют нули и единицы по проводам, а коты красят кнопки
+- Мне мерж реквест и моему чинчопе тоже
+
+
+
+## 🔧 Инструменты
+
+![ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![Fish](https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnu-bash&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![NVIM](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=codeium&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+
+![JS](https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![TS](https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![PHP](https://img.shields.io/badge/Lang-PHP-informational?style=for-the-badge&logo=php&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+
+![Vue](https://img.shields.io/badge/Framework-VueJS-informational?style=for-the-badge&logo=Vuedotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![React](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=React&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![NuxtJS](https://img.shields.io/badge/Framework-NuxtJS-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![NextJS](https://img.shields.io/badge/Framework-NextJS-informational?style=for-the-badge&logo=nextdotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+
+![Docker](https://img.shields.io/badge/OPS-Docker-informational?style=for-the-badge&logo=docker&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![Github_Actions](https://img.shields.io/badge/OPS-GithubActions-informational?style=for-the-badge&logo=githubactions&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+![Gitlab_CI](https://img.shields.io/badge/OPS-Gitlab_CI-informational?style=for-the-badge&logo=gitlab&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
+
+
+## 😎 Социальные статусы:
+
+- [x] - <b>![Имею пуки в великом сообществе быдлокодеров](https://t.me/+n3IdkwXXibY4OGQy)</b>
+- [x] - <b>![Покупаю статус легенды у бацылы](https://t.me/koshachyabacylay)</b>
+
+
+## 👀 Типо хвастаюсь (было бы чем)
 
 <!-- =================================================== -->
 <div align="center">　<!-- repository::center -->
@@ -39,22 +72,23 @@
 <p align="left">　</p>
 <h1></h1>
 </div>　<!-- repository::center -->
+<!-- =================================================== -->
+<div align="center">　<!-- repository::center -->
+<a href="https://github.com/gudkovWay/nuxt">
+    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=nuxt&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+</a>
+<h3 align="left">　</h3>
+<p align="left">　</p>
+<h1></h1>
+</div>　<!-- repository::center -->
 
 
-## 🌴 Tech Stack:
- ![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=vercel&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+<img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudkovWay&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/> 
 
 
-<br> ![Golang](https://img.shields.io/badge/Go-039ACC?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-779933.svg?style=for-the-badge&logo=Node.JS&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-262224?style=for-the-badge&logo=prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-<br>![LINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) [![Feature-Sliced Design][shields-fsd-pain]](https://feature-sliced.design/)
-
-[shields-fsd-pain]: https://img.shields.io/badge/Feature--Sliced-Design?style=for-the-badge&labelColor=262224&color=262224&logoWidth=10&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABHSURBVHgB7dKxCQAgDETR08ZNHNBBHNBNrBQFuyCCKQK5V6QMfBJAWVij5zLwKbW6d0VYx2TZyXnBKxvEZJnDx2bylf1kdRM6tiAZsruQ/QAAAABJRU5ErkJggg==  
-
-##
-
-## 🚀 PM Me Now:
+## 🚀 Напиши мне и узнаешь каков арчавод под мухоморами:
 <a href="https://t.me/IuriiGudkov"><img src="https://img.shields.io/badge/Telegram-302D41?style=for-the-badge&logo=telegram&logoColor=D9E0EE"/></a>
 
-##
-
+|    <img src="https://i.imgur.com/2SP4cL8.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/MxCou1y.jpg" align="center" width="200px" height="200px"> |   <img src="https://i.imgur.com/tvZlJSE.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/qEUwtsJ.jpg" align="center" width="200px" height="200px">    |
+| :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | -------------------------------------------------------------------- |
