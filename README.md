@@ -41,8 +41,6 @@ Please, use deprecated instead of deprecated.
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 
 ![Docker](https://img.shields.io/badge/OPS-Docker-informational?style=for-the-badge&logo=docker&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![Github_Actions](https://img.shields.io/badge/OPS-GithubActions-informational?style=for-the-badge&logo=githubactions&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![Gitlab_CI](https://img.shields.io/badge/OPS-Gitlab_CI-informational?style=for-the-badge&logo=gitlab&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 
 
 ## 😎 Социальные статусы:
