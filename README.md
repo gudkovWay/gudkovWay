@@ -38,7 +38,6 @@ Please, use deprecated instead of deprecated.
 ![React](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=React&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 ![NuxtJS](https://img.shields.io/badge/Framework-NuxtJS-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 ![NextJS](https://img.shields.io/badge/Framework-NextJS-informational?style=for-the-badge&logo=nextdotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 
 ![Docker](https://img.shields.io/badge/OPS-Docker-informational?style=for-the-badge&logo=docker&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 
@@ -83,8 +82,6 @@ Please, use deprecated instead of deprecated.
 
 
 
-## 🚀 Напиши мне и узнаешь каков арчавод под мухоморами:
-<a href="https://t.me/IuriiGudkov"><img src="https://img.shields.io/badge/Telegram-302D41?style=for-the-badge&logo=telegram&logoColor=D9E0EE"/></a>
 
 |    <img src="https://i.imgur.com/2SP4cL8.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/MxCou1y.jpg" align="center" width="200px" height="200px"> |   <img src="https://i.imgur.com/tvZlJSE.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/qEUwtsJ.jpg" align="center" width="200px" height="200px">    |
 | :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | -------------------------------------------------------------------- |
