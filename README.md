@@ -46,36 +46,6 @@ Please, use deprecated instead of deprecated.
 
 - [x] - <b>[![Сильный реакт разраб в сообществе быдлокодеров](https://t.me/+n3IdkwXXibY4OGQy)](https://t.me/+n3IdkwXXibY4OGQy)</b>
 
-## 👀 Типо хвастаюсь (было бы чем)
-
-<!-- =================================================== -->
-<div align="center">　<!-- repository::center -->
-<a href="https://github.com/gudkovWay/dotfiles">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=dotfiles&layout=compact&theme=transparent&hide_border=true&count_private=true" />
-</a>
-<h3 align="left">　</h3>
-<p align="left">　</p>
-<h1></h1>
-</div>　<!-- repository::center -->
-
-<!-- =================================================== -->
-<div align="center">　<!-- repository::center -->
-<a href="https://github.com/gudkovWay/react-prod">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=react-prod&layout=compact&theme=transparent&hide_border=true&count_private=true" />
-</a>
-<h3 align="left">　</h3>
-<p align="left">　</p>
-<h1></h1>
-</div>　<!-- repository::center -->
-<!-- =================================================== -->
-<div align="center">　<!-- repository::center -->
-<a href="https://github.com/gudkovWay/nuxt">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gudkovWay&repo=nuxt&layout=compact&theme=transparent&hide_border=true&count_private=true" />
-</a>
-<h3 align="left">　</h3>
-<p align="left">　</p>
-<h1></h1>
-</div>　<!-- repository::center -->
 
 
 <img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudkovWay&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/> 
