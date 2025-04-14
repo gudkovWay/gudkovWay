@@ -42,11 +42,6 @@ Please, use deprecated instead of deprecated.
 ![Docker](https://img.shields.io/badge/OPS-Docker-informational?style=for-the-badge&logo=docker&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
 
 
-## 😎 Социальные статусы:
-
-- [x] - <b>[![Сильный реакт разраб в сообществе быдлокодеров](https://t.me/+n3IdkwXXibY4OGQy)](https://t.me/+n3IdkwXXibY4OGQy)</b>
-
-
 
 <img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudkovWay&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/> 
 
