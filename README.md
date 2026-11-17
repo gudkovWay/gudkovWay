@@ -22,10 +22,6 @@ Please, use deprecated instead of deprecated.
 - Мне мерж реквест и моему чинчопе тоже
 
 
-<img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudkovWay&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/> 
-
-
-
 
 |    <img src="https://i.imgur.com/2SP4cL8.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/MxCou1y.jpg" align="center" width="200px" height="200px"> |   <img src="https://i.imgur.com/tvZlJSE.jpg" align="center" width="200px" height="200px" >    | <img src="https://i.imgur.com/qEUwtsJ.jpg" align="center" width="200px" height="200px">    |
 | :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | -------------------------------------------------------------------- |
