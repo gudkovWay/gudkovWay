@@ -22,27 +22,6 @@ Please, use deprecated instead of deprecated.
 - Мне мерж реквест и моему чинчопе тоже
 
 
-
-## 🔧 Инструменты
-
-![ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![Fish](https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnu-bash&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![NVIM](https://img.shields.io/badge/Editor-Neovim-informational?style=for-the-badge&logo=neovim&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-
-![JS](https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![TS](https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![PHP](https://img.shields.io/badge/Lang-PHP-informational?style=for-the-badge&logo=php&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-
-![Vue](https://img.shields.io/badge/Framework-VueJS-informational?style=for-the-badge&logo=Vuedotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![React](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=React&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![NuxtJS](https://img.shields.io/badge/Framework-NuxtJS-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-![NextJS](https://img.shields.io/badge/Framework-NextJS-informational?style=for-the-badge&logo=nextdotjs&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-
-![Docker](https://img.shields.io/badge/OPS-Docker-informational?style=for-the-badge&logo=docker&logoColor=BD93F9&color=f2e9c2&labelColor=282A36)
-
-
-
 <img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudkovWay&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/> 
 
 
